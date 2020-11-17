@@ -26,4 +26,5 @@ $ apt-get install libomp-dev
 Make sure you have the required data .bin files and cpp files
 
 $ make
+
 $ make run
