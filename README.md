@@ -22,7 +22,7 @@ https://github.com/masumhabib/quest/wiki/How-to-Install-Armadillo
 # Installing OpenMP
 $ apt-get install libomp-dev
 
-# How to compile:
+# How to compile and run:
 Make sure you have the required data .bin files and cpp files
 
 $ make
